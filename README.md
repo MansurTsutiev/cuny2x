@@ -1,1 +1,1 @@
-https://github.com/MansurTsutiev/PeerTutor
+[PeerTutor](https://github.com/MansurTsutiev/PeerTutor)
